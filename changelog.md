@@ -4,4 +4,4 @@
 
 ### 0917
 
-- Added 20250917_class.py
+- Added class & homework dir and stuffs
