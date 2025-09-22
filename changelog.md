@@ -5,3 +5,5 @@
 ### 0917
 
 - Added class & homework dir and stuffs
+
+- Put class folder into .gitignore
