@@ -7,3 +7,7 @@
 ### 0917 Downloads folder re-arrangement
 
 - Including app.py and app_advanced.py
+
+### 1022 Website Scrap Homework
+
+- Including scrap1.py, scrap2.py, scrap3.py
