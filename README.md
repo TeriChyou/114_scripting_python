@@ -10,4 +10,4 @@
 
 ### 1022 Website Scrap Homework
 
-- Including scrap1.py, scrap2.py, scrap3.py
+- Including scrape1.py, scrape2.py, scrape3.py
