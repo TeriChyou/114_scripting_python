@@ -15,4 +15,4 @@
 
 ### 1023
 
-- Added 1022 folder and created 3 homework including scrap1 to 3. All code are functionale.
+- Added 1022 folder and created 3 homework including scrape1 to 3. All code are functionale.
